@@ -1,0 +1,51 @@
+{
+  "company_name": "Canvas LMS",
+  "founded": "2011",
+  "headquarters": "Salt Lake City, Utah, USA",
+  "summary": "Canvas LMS is a widely used educational platform designed for K–12 and higher education institutions.",
+  "products": [
+    "Canvas LMS",
+    "Canvas Studio",
+    "Canvas Catalog"
+  ],
+  "target_market": [
+    "K–12",
+    "Higher Education"
+  ],
+  "technology_stack": {
+    "languages": [
+      "Ruby",
+      "JavaScript"
+    ],
+    "frameworks": [
+      "Ruby on Rails",
+      "React"
+    ]
+  },
+  "pricing_model": "Subscription-based (institutional licensing)",
+  "company_size": "1000–5000 employees",
+  "key_features": [
+    "Course creation",
+    "Assessments",
+    "Analytics",
+    "Integrations"
+  ],
+  "use_cases": [
+    "Online learning",
+    "Hybrid learning",
+    "Enterprise education"
+  ],
+  "value_proposition": "Modern, scalable, cloud-based LMS with strong analytics and integrations.",
+  "market_position": "Industry leader",
+  "competitors": [
+    "Moodle",
+    "Blackboard",
+    "Google Classroom"
+  ],
+  "metadata": {
+    "source": "mock",
+    "confidence": "low (example data)"
+  },
+  "data_completeness_score": 0.94,
+  "category": "Learning Management System (LMS)"
+}

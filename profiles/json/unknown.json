@@ -1,0 +1,13 @@
+{
+  "company_name": "Unknown",
+  "summary": "Failed to extract due to API issue.",
+  "products": [],
+  "target_market": [],
+  "technology_stack": {},
+  "metadata": {
+    "source": "mock",
+    "confidence": "low"
+  },
+  "data_completeness_score": 0.12,
+  "category": "General EdTech"
+}

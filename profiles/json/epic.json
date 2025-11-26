@@ -1,0 +1,45 @@
+{
+  "company_name": "Epic",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Epic is a digital library offering a subscription service for kids' eBooks, audiobooks, and learning videos.",
+  "products": [
+    "Kids' eBook subscription service",
+    "Audiobooks",
+    "Learning videos"
+  ],
+  "target_market": [
+    "Parents",
+    "Educators",
+    "Kids"
+  ],
+  "technology_stack": {
+    "languages": [
+      "JavaScript"
+    ],
+    "frameworks": [],
+    "infrastructure": []
+  },
+  "pricing_model": "Subscription",
+  "company_size": null,
+  "key_features": [
+    "Access to over 40,000 books",
+    "High-quality content from well-known publishers",
+    "Free access for educators"
+  ],
+  "use_cases": [
+    "Reading for pleasure",
+    "Educational resources for classrooms",
+    "Family reading time"
+  ],
+  "value_proposition": "Inspire a lifetime of reading and discovery with an extensive digital library.",
+  "market_position": null,
+  "competitors": [],
+  "metadata": {
+    "sources": "Epic website",
+    "confidence": "High",
+    "notes": "Information extracted from promotional text."
+  },
+  "data_completeness_score": 0.56,
+  "category": "K-12 Learning Platform"
+}

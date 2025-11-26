@@ -1,0 +1,57 @@
+{
+  "company_name": "Totara Learning",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Totara offers a fully customizable LMS that enhances compliance rates, optimizes training efficiency, and maximizes employee loyalty at an unparalleled scale.",
+  "products": [
+    "Totara Suite",
+    "Learn",
+    "Perform",
+    "Totara Mobile",
+    "Pre-built Learning Content"
+  ],
+  "target_market": [
+    "Healthcare",
+    "Retail",
+    "Public Sector",
+    "Technology and Media",
+    "Financial Services",
+    "Hospitality and Travel",
+    "Sports and Lifestyle",
+    "Services",
+    "Education and Training",
+    "Manufacturing",
+    "Nonprofit"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": "0+ customers, 0 million+ users, 0+ global partners",
+  "key_features": [
+    "Fully customizable open-source LMS",
+    "Scalable learning and compliance solutions",
+    "Automated content delivery",
+    "Personalized learning experiences",
+    "Global partner network"
+  ],
+  "use_cases": [
+    "Employee training",
+    "Onboarding",
+    "Compliance training",
+    "Talent development",
+    "Engaging learning experiences"
+  ],
+  "value_proposition": "Empower organizations to train employees effectively while ensuring compliance and enhancing learning outcomes.",
+  "market_position": null,
+  "competitors": null,
+  "metadata": {
+    "sources": "Totara Learning website",
+    "confidence": "high",
+    "notes": "Information extracted from the company's website."
+  },
+  "data_completeness_score": 0.5,
+  "category": "Learning Management System (LMS)"
+}

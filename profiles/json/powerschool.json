@@ -1,0 +1,66 @@
+{
+  "company_name": "PowerSchool",
+  "founded": null,
+  "headquarters": null,
+  "summary": "PowerSchool products support educators, administrators, and families to help students learn in a way that's right for them.",
+  "products": [
+    "Schoology Learning",
+    "PowerSchool SIS",
+    "Enrollment Express",
+    "Ecollect Forms",
+    "Special Programs",
+    "Predictive Enrollment Analytics",
+    "Performance Matters",
+    "Curriculum & Instruction",
+    "ContentNav",
+    "MTSS",
+    "Attendance Intervention",
+    "Behavior Support",
+    "Naviance",
+    "SchoolSpring Job Board",
+    "Applicant Tracking",
+    "Employee Records",
+    "SmartFind Express",
+    "Perform",
+    "Professional Learning"
+  ],
+  "target_market": [
+    "K-12 schools",
+    "educators",
+    "administrators",
+    "families"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "Secure student data management",
+    "AI-powered tools",
+    "Lesson planning and assessment",
+    "Analytics and data visualization",
+    "Attendance and behavior management",
+    "College and career readiness tools",
+    "Recruitment and performance management"
+  ],
+  "use_cases": [
+    "Student enrollment and registration",
+    "Curriculum delivery and collaboration",
+    "Assessment and performance analysis",
+    "Resource planning and budgeting",
+    "Professional learning management"
+  ],
+  "value_proposition": "Empowering educators and students through comprehensive solutions that enhance learning and operational efficiency.",
+  "market_position": null,
+  "competitors": [],
+  "metadata": {
+    "sources": "PowerSchool website",
+    "confidence": "high",
+    "notes": "Information extracted from product descriptions."
+  },
+  "data_completeness_score": 0.44,
+  "category": "Learning Management System (LMS)"
+}

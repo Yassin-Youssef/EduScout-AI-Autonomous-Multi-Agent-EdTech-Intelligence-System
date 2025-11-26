@@ -1,0 +1,57 @@
+{
+  "company_name": "Absorb LMS",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Absorb is an AI-powered strategic learning system designed for all internal and external learning needs.",
+  "products": [
+    "Absorb LMS",
+    "Absorb content portfolio"
+  ],
+  "target_market": [
+    "HR teams",
+    "L&D teams",
+    "Compliance teams",
+    "Sales & product teams",
+    "Customer success teams"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "AI-powered LMS",
+    "Top-rated support",
+    "LMS performance & stability",
+    "Simplified administration",
+    "Reporting & analytics",
+    "Personalized upskilling",
+    "Course authoring",
+    "Social learning & gamification",
+    "Integrations",
+    "API & webhooks"
+  ],
+  "use_cases": [
+    "Employee onboarding",
+    "Employee upskilling",
+    "Product training",
+    "Customer education",
+    "Partner enablement",
+    "Sales & product training",
+    "Mandatory training",
+    "Compliance training",
+    "Frontline training"
+  ],
+  "value_proposition": "Absorb helps organizations bridge knowledge gaps faster with an engaging experience and personalized learning paths, while providing reliable support and seamless integration.",
+  "market_position": "Industry's #1 Learning Management System",
+  "competitors": [],
+  "metadata": {
+    "sources": "Absorb LMS website",
+    "confidence": "high",
+    "notes": "Information extracted from the company's promotional content."
+  },
+  "data_completeness_score": 0.5,
+  "category": "Learning Management System (LMS)"
+}

@@ -1,0 +1,56 @@
+{
+  "company_name": "Brainly",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Brainly is an AI Learning Companion that provides personalized homework help, tutoring, and study resources to improve academic performance.",
+  "products": [
+    "AI Tutoring",
+    "Test Prep",
+    "Homework Worksheets",
+    "Smart Notes",
+    "ClarityPods",
+    "Study Boards",
+    "Ask My Docs"
+  ],
+  "target_market": [
+    "Students",
+    "Parents",
+    "Educators"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": "Freemium",
+  "company_size": null,
+  "key_features": [
+    "24/7 AI tutoring",
+    "Personalized quizzes and study guides",
+    "Guided audio sessions",
+    "Cross-checked homework answers",
+    "All-in-one study app"
+  ],
+  "use_cases": [
+    "Homework assistance",
+    "Test preparation",
+    "Study organization",
+    "Note-taking",
+    "Mental clarity sessions"
+  ],
+  "value_proposition": "A personal learning companion that adapts to individual learning styles, helping students study less and achieve more.",
+  "market_position": null,
+  "competitors": [
+    "Khan Academy",
+    "Chegg",
+    "Quizlet",
+    "Coursera"
+  ],
+  "metadata": {
+    "sources": "Brainly website",
+    "confidence": "High",
+    "notes": "Information extracted from promotional content on the website."
+  },
+  "data_completeness_score": 0.56,
+  "category": "Assessment & Testing"
+}

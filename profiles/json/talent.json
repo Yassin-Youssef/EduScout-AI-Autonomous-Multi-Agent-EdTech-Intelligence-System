@@ -1,0 +1,51 @@
+{
+  "company_name": "TalentLMS",
+  "founded": null,
+  "headquarters": null,
+  "summary": "TalentLMS is a cloud-based learning management system designed to facilitate online learning and training for businesses of all sizes.",
+  "products": [
+    "TalentLMS",
+    "eFront",
+    "TalentCards",
+    "TalentHR",
+    "TalentLibrary"
+  ],
+  "target_market": [
+    "growing businesses",
+    "enterprises",
+    "startups",
+    "SMBs"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "AI course creator",
+    "AI skills-based learning",
+    "1000+ ready-made courses",
+    "Integrations with daily tools",
+    "Dedicated onboarding and support"
+  ],
+  "use_cases": [
+    "Employee training",
+    "Onboarding training",
+    "Partner training",
+    "Compliance training",
+    "Customer training",
+    "Cybersecurity training"
+  ],
+  "value_proposition": "TalentLMS accelerates success and offers real value in training, making it simple to start and powerful to grow.",
+  "market_position": "Ranked as the #1 LMS for online learning.",
+  "competitors": [],
+  "metadata": {
+    "sources": "TalentLMS website",
+    "confidence": "high",
+    "notes": "Information extracted from various sections of the website."
+  },
+  "data_completeness_score": 0.5,
+  "category": "Learning Management System (LMS)"
+}

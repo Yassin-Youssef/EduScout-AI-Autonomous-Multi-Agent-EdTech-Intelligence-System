@@ -1,0 +1,54 @@
+# LEARNING MANAGEMENT SYSTEMS (LMS)
+canvas
+moodle
+blackboard
+brightspace
+schoology
+google classroom
+open edx
+d2l
+sakai
+neo lms
+talentlms
+ispring learn
+absorb lms
+docebo
+litmos
+totara
+saba
+
+# MAJOR EDTECH PLATFORMS
+coursera
+udemy
+khan academy
+byjus
+futurelearn
+edx
+masterclass
+skillshare
+udacity
+
+# AI-POWERED EDUCATION TOOLS
+duolingo
+photomath
+quizlet
+gradescope
+turnitin
+socratic
+knewton
+brainly
+
+# DIGITAL CLASSROOM & K-12 TOOLS
+edmodo
+nearpod
+seesaw
+flipgrid
+kahoot
+epic books
+tophat
+
+# CODING / STEM EDUCATION TOOLS
+code.org
+scratch
+brilliant
+codecademy

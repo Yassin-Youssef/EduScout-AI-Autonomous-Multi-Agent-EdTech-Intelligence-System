@@ -1,0 +1,64 @@
+{
+  "company_name": "Cornerstone OnDemand",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Empowering people to be extraordinary through a comprehensive talent experience platform.",
+  "products": [
+    "Cornerstone Galaxy",
+    "Cornerstone Learn",
+    "Cornerstone Elevate",
+    "Cornerstone Transform",
+    "Cornerstone Extend"
+  ],
+  "target_market": [
+    "small and mid-sized businesses",
+    "public sector",
+    "financial services",
+    "healthcare",
+    "life sciences",
+    "manufacturing",
+    "higher education",
+    "nonprofit",
+    "retail"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "AI-powered learning",
+    "Compliance management",
+    "Leadership development",
+    "Content curation",
+    "Dynamic workforce planning",
+    "Internal recruiting and talent mobility",
+    "Customer & partner training"
+  ],
+  "use_cases": [
+    "Learning aligned to performance",
+    "Ensure regulatory compliance",
+    "Get your team AI ready",
+    "Develop your future-ready leaders",
+    "Plan with confidence and agility",
+    "Train and retain your frontline",
+    "Engage partners and customers",
+    "Build a workplace for everyone"
+  ],
+  "value_proposition": "Unlock the full potential of your workforce with AI-driven skills and a comprehensive talent experience.",
+  "market_position": null,
+  "competitors": [
+    "Saba",
+    "SumTotal",
+    "TalentLink"
+  ],
+  "metadata": {
+    "sources": "Cornerstone OnDemand website",
+    "confidence": "high",
+    "notes": "Information extracted from the company's product and service descriptions."
+  },
+  "data_completeness_score": 0.5,
+  "category": "Corporate Training / HR Learning"
+}

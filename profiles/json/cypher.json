@@ -1,0 +1,51 @@
+{
+  "company_name": "CYPHER",
+  "founded": null,
+  "headquarters": null,
+  "summary": "CYPHER is an AI-powered learning platform designed for academia and various industries, offering a comprehensive solution for training and education.",
+  "products": [
+    "CYPHER platform",
+    "CYPHER Agent (creators)",
+    "CYPHER Agent (learners)",
+    "Complete white label LMS"
+  ],
+  "target_market": [
+    "Business",
+    "Academia",
+    "Training organizations"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "AI-powered capabilities",
+    "Personalized learning",
+    "Gamification",
+    "Social learning",
+    "Scalability & performance",
+    "Automation",
+    "Reporting",
+    "Security & accessibility"
+  ],
+  "use_cases": [
+    "Employee training",
+    "Customer training",
+    "Onboarding",
+    "Skills development",
+    "Compliance"
+  ],
+  "value_proposition": "The CYPHER platform optimizes efficiency in training, making it easy, scalable, and measurable while enhancing engagement and learning outcomes.",
+  "market_position": null,
+  "competitors": null,
+  "metadata": {
+    "sources": "CYPHER website",
+    "confidence": "high",
+    "notes": "Information extracted from the company's promotional content."
+  },
+  "data_completeness_score": 0.44,
+  "category": "Learning Management System (LMS)"
+}

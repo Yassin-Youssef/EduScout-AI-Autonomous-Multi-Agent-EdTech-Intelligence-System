@@ -1,0 +1,64 @@
+{
+  "company_name": "Google",
+  "founded": "1998",
+  "headquarters": "Mountain View, California, USA",
+  "summary": "Google Lens is a visual search tool that uses your camera or images to search for information, translate text, and identify objects.",
+  "products": [
+    "Google Lens",
+    "Google Images",
+    "Google App",
+    "Google Camera",
+    "Google Photos",
+    "Chrome"
+  ],
+  "target_market": [
+    "students",
+    "general consumers",
+    "educators"
+  ],
+  "technology_stack": {
+    "languages": [
+      "Java",
+      "Python",
+      "JavaScript"
+    ],
+    "frameworks": [
+      "TensorFlow",
+      "Angular"
+    ],
+    "infrastructure": [
+      "Google Cloud"
+    ]
+  },
+  "pricing_model": "Free",
+  "company_size": "Large",
+  "key_features": [
+    "Real-time translation",
+    "Image search",
+    "Homework help",
+    "Object identification",
+    "Cross-device availability"
+  ],
+  "use_cases": [
+    "Finding similar products",
+    "Translating text from images",
+    "Homework assistance",
+    "Identifying plants and animals"
+  ],
+  "value_proposition": "Google Lens enhances the way users interact with the world by providing instant information through visual search.",
+  "market_position": "Leader in visual search technology",
+  "competitors": [
+    "Microsoft Bing Visual Search",
+    "Pinterest Lens",
+    "Amazon Visual Search"
+  ],
+  "metadata": {
+    "sources": [
+      "Google official website"
+    ],
+    "confidence": "High",
+    "notes": "Information extracted from the product description."
+  },
+  "data_completeness_score": 1.0,
+  "category": "Corporate Training / HR Learning"
+}

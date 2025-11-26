@@ -1,0 +1,40 @@
+{
+  "company_name": "Udemy",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Udemy is an online learning platform that offers a wide range of courses for individuals and businesses to build in-demand career skills.",
+  "products": [
+    "Online Courses",
+    "Udemy Business"
+  ],
+  "target_market": [
+    "Individuals",
+    "Businesses"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "Learn Anything",
+    "On Your Schedule",
+    "Business Solutions"
+  ],
+  "use_cases": [
+    "Skill Development",
+    "Corporate Training"
+  ],
+  "value_proposition": "Build in-demand career skills through flexible online courses.",
+  "market_position": null,
+  "competitors": [],
+  "metadata": {
+    "sources": "Udemy Website",
+    "confidence": "High",
+    "notes": "Information extracted from the website's content."
+  },
+  "data_completeness_score": 0.44,
+  "category": "Corporate Training / HR Learning"
+}

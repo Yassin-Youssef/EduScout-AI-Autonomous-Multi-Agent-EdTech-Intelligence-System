@@ -1,0 +1,47 @@
+{
+  "company_name": "iSpring",
+  "founded": null,
+  "headquarters": null,
+  "summary": "iSpring LMS is a powerful corporate learning management system designed to accelerate business growth through effective onboarding, compliance training, and continuous employee development.",
+  "products": [
+    "iSpring LMS"
+  ],
+  "target_market": [
+    "corporate training",
+    "manufacturing",
+    "retail",
+    "healthcare",
+    "automotive industry"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": "subscription-based with a free trial",
+  "company_size": null,
+  "key_features": [
+    "fast onboarding",
+    "consistent training quality",
+    "knowledge retention",
+    "compliance training",
+    "employee engagement",
+    "individual development plans"
+  ],
+  "use_cases": [
+    "onboarding new employees",
+    "compliance training",
+    "continuous employee development",
+    "knowledge management"
+  ],
+  "value_proposition": "iSpring LMS provides a full-cycle platform for employee development, ensuring high-quality training and knowledge retention while reducing costs and dependency on key personnel.",
+  "market_position": null,
+  "competitors": [],
+  "metadata": {
+    "sources": "iSpring website",
+    "confidence": "high",
+    "notes": "Information extracted from the company's promotional content."
+  },
+  "data_completeness_score": 0.5,
+  "category": "Learning Management System (LMS)"
+}

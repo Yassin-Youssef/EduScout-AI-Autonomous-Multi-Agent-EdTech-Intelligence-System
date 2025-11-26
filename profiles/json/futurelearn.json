@@ -1,0 +1,46 @@
+{
+  "company_name": "FutureLearn",
+  "founded": null,
+  "headquarters": null,
+  "summary": "FutureLearn offers online courses and degrees from top universities across various subjects.",
+  "products": [
+    "Short Online Courses",
+    "Degrees"
+  ],
+  "target_market": [
+    "Students",
+    "Professionals",
+    "Lifelong learners"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "Wide range of subjects",
+    "Courses from top universities",
+    "Short courses available"
+  ],
+  "use_cases": [
+    "Skill development",
+    "Professional advancement",
+    "Personal enrichment"
+  ],
+  "value_proposition": "Access to high-quality education from leading institutions online.",
+  "market_position": null,
+  "competitors": [
+    "Coursera",
+    "edX",
+    "Udacity"
+  ],
+  "metadata": {
+    "sources": "FutureLearn website",
+    "confidence": "high",
+    "notes": "Information extracted from course offerings and subject categories."
+  },
+  "data_completeness_score": 0.5,
+  "category": "MOOC Platform"
+}

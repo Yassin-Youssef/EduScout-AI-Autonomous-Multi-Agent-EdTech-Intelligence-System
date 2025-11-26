@@ -1,0 +1,48 @@
+{
+  "company_name": "Instructure",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Instructure is an education technology company that's obsessed with student success, known for its Canvas LMS.",
+  "products": [
+    "Canvas",
+    "Mastery",
+    "Parchment",
+    "Platform Enhancements",
+    "LearnPlatform"
+  ],
+  "target_market": [
+    "K-12",
+    "Higher Education",
+    "Business and Government"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "Comprehensive K–12 LMS solutions",
+    "Standards-aligned assessments",
+    "Secure, verified credentials",
+    "AI, insights, analytics"
+  ],
+  "use_cases": [
+    "Teaching and Learning",
+    "Data and Insights",
+    "Student Engagement and Success",
+    "Employee Development",
+    "Customer Education"
+  ],
+  "value_proposition": "Delivering a future-ready ecosystem to help learners thrive.",
+  "market_position": "World leading LMS for teaching and learning.",
+  "competitors": [],
+  "metadata": {
+    "sources": "Instructure website",
+    "confidence": "high",
+    "notes": "Information extracted from the company's website."
+  },
+  "data_completeness_score": 0.5,
+  "category": "Learning Management System (LMS)"
+}

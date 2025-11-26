@@ -1,0 +1,62 @@
+{
+  "company_name": "BYJU'S",
+  "founded": 2015,
+  "headquarters": "India",
+  "summary": "BYJU'S is India's largest ed-tech company and the creator of India's most loved school learning app, offering highly personalised and effective learning programs for classes 1 - 12 and aspirants of competitive exams.",
+  "products": [
+    "BYJU'S Early Learn Program",
+    "BYJU’S The Learning App",
+    "BYJU'S Live Classes",
+    "Aakash BYJU'S Foundation Program",
+    "Aakash BYJU’S App Program",
+    "Aakash BYJU'S Test Series"
+  ],
+  "target_market": [
+    "K-12 students",
+    "NEET aspirants",
+    "JEE aspirants",
+    "IAS aspirants"
+  ],
+  "technology_stack": {
+    "languages": [
+      "Java",
+      "Python"
+    ],
+    "frameworks": [
+      "React",
+      "Node.js"
+    ],
+    "infrastructure": [
+      "AWS",
+      "Google Cloud"
+    ]
+  },
+  "pricing_model": "Subscription-based",
+  "company_size": "Large",
+  "key_features": [
+    "Personalised learning programs",
+    "Engaging video lessons",
+    "Two teacher model for tutoring",
+    "Conceptual clarity through visualisation",
+    "Unmatched individual attention"
+  ],
+  "use_cases": [
+    "Online tutoring",
+    "Exam preparation",
+    "Personalised learning journeys"
+  ],
+  "value_proposition": "Become lifelong learners with India's best teachers and comprehensive learning programs.",
+  "market_position": "Leader in the Indian ed-tech market",
+  "competitors": [
+    "Vedantu",
+    "Unacademy",
+    "Khan Academy"
+  ],
+  "metadata": {
+    "sources": "Company website",
+    "confidence": "High",
+    "notes": "Information extracted from the company's promotional content."
+  },
+  "data_completeness_score": 1.0,
+  "category": "K-12 Learning Platform"
+}

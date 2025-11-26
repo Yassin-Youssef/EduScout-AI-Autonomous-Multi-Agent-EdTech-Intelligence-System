@@ -1,0 +1,51 @@
+{
+  "company_name": "酒井医療株式会社",
+  "founded": null,
+  "headquarters": null,
+  "summary": "リハビリテーション機器総合メーカー",
+  "products": [
+    "介護浴槽",
+    "リハビリテーション機器",
+    "衛生",
+    "スポーツサポート",
+    "トレーニングマシン プレクサーG5",
+    "交番磁界治療器 エイト",
+    "フィジオ ショックマスター",
+    "磁気刺激装置 パスリーダー"
+  ],
+  "target_market": [
+    "高齢者",
+    "医療機関",
+    "介護業界",
+    "スポーツ"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "高度なAI機能を搭載した超音波画像診断装置",
+    "ワンストップサービス提供"
+  ],
+  "use_cases": [
+    "高齢者リハビリテーション",
+    "運動療法",
+    "水治療法",
+    "物理療法",
+    "ADL作業療法",
+    "言語療法"
+  ],
+  "value_proposition": "多様なリハビリテーション機器を提供し、高齢者の自立支援を目指す。",
+  "market_position": null,
+  "competitors": null,
+  "metadata": {
+    "sources": "会社のウェブサイト",
+    "confidence": "high",
+    "notes": "情報は主に製品情報と企業情報から取得"
+  },
+  "data_completeness_score": 0.44,
+  "category": "General EdTech"
+}

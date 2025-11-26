@@ -1,0 +1,59 @@
+{
+  "company_name": "Codecademy",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Codecademy offers interactive coding lessons and career paths to help learners build job-ready skills in various in-demand fields.",
+  "products": [
+    "Codecademy Teams",
+    "Career paths",
+    "Top courses",
+    "Skill paths"
+  ],
+  "target_market": [
+    "individual learners",
+    "teams and organizations"
+  ],
+  "technology_stack": {
+    "languages": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "C++",
+      "C#"
+    ],
+    "frameworks": [],
+    "infrastructure": []
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "Guided paths",
+    "Interactive lessons",
+    "Hands-on expertise",
+    "Portfolio-worthy projects",
+    "Certification prep",
+    "Admin dashboard for teams",
+    "Global learner community"
+  ],
+  "use_cases": [
+    "Learning programming",
+    "Career advancement",
+    "Team training",
+    "Certification preparation"
+  ],
+  "value_proposition": "Codecademy provides a comprehensive platform for learning coding and tech skills through interactive and guided experiences, catering to both individuals and teams.",
+  "market_position": null,
+  "competitors": [
+    "Udacity",
+    "Coursera",
+    "edX",
+    "Pluralsight"
+  ],
+  "metadata": {
+    "sources": "Codecademy website",
+    "confidence": "high",
+    "notes": "Information extracted from the website content."
+  },
+  "data_completeness_score": 0.56,
+  "category": "Corporate Training / HR Learning"
+}

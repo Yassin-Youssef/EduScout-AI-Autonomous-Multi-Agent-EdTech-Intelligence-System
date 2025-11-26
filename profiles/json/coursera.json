@@ -1,0 +1,56 @@
+{
+  "company_name": "Coursera",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Coursera offers a wide range of online courses, degrees, and certificates from leading universities and companies, enabling individuals and organizations to build skills and advance their careers.",
+  "products": [
+    "Online Courses",
+    "Professional Certificates",
+    "MasterTrack Certificates",
+    "Degrees",
+    "Coursera Plus",
+    "Coursera for Business",
+    "Coursera for Government",
+    "Coursera for Campus"
+  ],
+  "target_market": [
+    "Individuals",
+    "Businesses",
+    "Universities",
+    "Governments"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": "Subscription-based with a 7-day free trial",
+  "company_size": null,
+  "key_features": [
+    "Access to 10,000+ courses",
+    "Flexible learning structure",
+    "Partnerships with leading universities and companies",
+    "Career resources and support"
+  ],
+  "use_cases": [
+    "Skill development",
+    "Career advancement",
+    "Team training",
+    "Professional certification"
+  ],
+  "value_proposition": "Coursera provides high-quality, flexible online education from top institutions, empowering learners to gain in-demand skills and advance their careers.",
+  "market_position": null,
+  "competitors": [
+    "edX",
+    "Udacity",
+    "LinkedIn Learning",
+    "Skillshare"
+  ],
+  "metadata": {
+    "sources": "Coursera website",
+    "confidence": "high",
+    "notes": "Information extracted from the company's promotional content."
+  },
+  "data_completeness_score": 0.56,
+  "category": "Corporate Training / HR Learning"
+}

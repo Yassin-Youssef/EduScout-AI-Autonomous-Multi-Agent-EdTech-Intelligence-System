@@ -1,0 +1,60 @@
+{
+  "company_name": "Top Hat",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Top Hat is an interactive learning platform designed to enhance student engagement and participation through various tools and features.",
+  "products": [
+    "AI Assistant for Educators & Students",
+    "Student Response & Assessment",
+    "Discussions",
+    "Polls & Quizzes",
+    "Assignments & Exams",
+    "Automatic Attendance",
+    "Personalizable Content",
+    "Pages Content Editor",
+    "Customizable, Dynamic eTexts",
+    "Interactive Labs",
+    "Educator Tools & Insights",
+    "Real-Time Data",
+    "Accessibility",
+    "LMS Integration",
+    "Interactive eTexts",
+    "Interactive OpenStax",
+    "Custom Solutions"
+  ],
+  "target_market": [
+    "Educators",
+    "Students",
+    "Institutions"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "In-Class Engagement",
+    "Interactive Content",
+    "AI-Enhanced Tools",
+    "Student Insights"
+  ],
+  "use_cases": [
+    "Transform lectures with interactive polls and quizzes",
+    "Personalize textbooks and create interactive materials",
+    "Identify learning gaps through data insights"
+  ],
+  "value_proposition": "Top Hat transforms the learning experience by making classes engaging and interactive, while providing educators with tools to track and enhance student success.",
+  "market_position": null,
+  "competitors": null,
+  "metadata": {
+    "sources": [
+      "Top Hat Website"
+    ],
+    "confidence": "high",
+    "notes": "Information extracted from the company's website."
+  },
+  "data_completeness_score": 0.44,
+  "category": "Learning Management System (LMS)"
+}

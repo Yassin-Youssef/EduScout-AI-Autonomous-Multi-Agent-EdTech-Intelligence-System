@@ -1,0 +1,27 @@
+{
+  "company_name": "Scratch",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Scratch is a platform that allows users to imagine, program, and share their creations.",
+  "products": [],
+  "target_market": [],
+  "technology_stack": {
+    "languages": [],
+    "frameworks": [],
+    "infrastructure": []
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [],
+  "use_cases": [],
+  "value_proposition": "Empowering users to create and share their own projects.",
+  "market_position": null,
+  "competitors": [],
+  "metadata": {
+    "sources": [],
+    "confidence": "low",
+    "notes": "Limited information available."
+  },
+  "data_completeness_score": 0.19,
+  "category": "General EdTech"
+}

@@ -1,0 +1,47 @@
+{
+  "company_name": "Sakai",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Sakai LMS helps instructors create inspiring learning experiences and is fully open source, developed by and for educators.",
+  "products": [
+    "Sakai Learning Management System"
+  ],
+  "target_market": [
+    "educators",
+    "colleges",
+    "universities"
+  ],
+  "technology_stack": {
+    "languages": [],
+    "frameworks": [],
+    "infrastructure": []
+  },
+  "pricing_model": "open source",
+  "company_size": null,
+  "key_features": [
+    "robust communication options",
+    "group-aware tools",
+    "easy integration with third party apps",
+    "community educator-built tools",
+    "superlative course creation"
+  ],
+  "use_cases": [
+    "in-person learning",
+    "online learning",
+    "course management"
+  ],
+  "value_proposition": "Sakai offers a feature-rich, open-source LMS that prioritizes education over profit, allowing institutions to maintain control over their data.",
+  "market_position": "market leader in open-source LMS",
+  "competitors": [
+    "commercial LMS vendors"
+  ],
+  "metadata": {
+    "sources": [
+      "Sakai website"
+    ],
+    "confidence": "high",
+    "notes": "Information extracted from the company's website."
+  },
+  "data_completeness_score": 0.62,
+  "category": "Learning Management System (LMS)"
+}

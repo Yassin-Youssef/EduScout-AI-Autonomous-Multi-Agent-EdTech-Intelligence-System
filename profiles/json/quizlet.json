@@ -1,0 +1,53 @@
+{
+  "company_name": "Quizlet",
+  "founded": null,
+  "headquarters": "United States",
+  "summary": "Quizlet is an interactive study tool that provides flashcards, practice tests, and study activities to help students learn effectively.",
+  "products": [
+    "Flashcards",
+    "Practice tests",
+    "Instant study content",
+    "Games",
+    "Quizlet Live",
+    "Quizlet Plus"
+  ],
+  "target_market": [
+    "Students",
+    "Teachers",
+    "Schools"
+  ],
+  "technology_stack": {
+    "languages": [],
+    "frameworks": [],
+    "infrastructure": []
+  },
+  "pricing_model": "Freemium",
+  "company_size": null,
+  "key_features": [
+    "Interactive flashcards",
+    "Personalized practice tests",
+    "Study modes",
+    "In-class games",
+    "Study guides"
+  ],
+  "use_cases": [
+    "Test preparation",
+    "Classroom engagement",
+    "Self-study",
+    "Group study"
+  ],
+  "value_proposition": "Empower students to learn confidently and improve their understanding through interactive study tools.",
+  "market_position": null,
+  "competitors": [
+    "Kahoot",
+    "Anki",
+    "Quizizz"
+  ],
+  "metadata": {
+    "sources": "Quizlet website",
+    "confidence": "High",
+    "notes": "Information extracted from the company's promotional content."
+  },
+  "data_completeness_score": 0.62,
+  "category": "K-12 Learning Platform"
+}

@@ -1,0 +1,50 @@
+{
+  "company_name": "Litmos",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Litmos is an award-winning AI learning management system that empowers employee, partner, and customer training, trusted by thousands of top-performing companies.",
+  "products": [
+    "LMS",
+    "Training content",
+    "Litmos AI",
+    "Content Authoring Tool"
+  ],
+  "target_market": [
+    "Enterprise",
+    "Mid-Market",
+    "Small business"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": "Over 4,000 companies",
+  "key_features": [
+    "AI Assistant",
+    "AI/ML Video Assessments",
+    "AI Playlists",
+    "Gamified Learning",
+    "Multilingual Learning",
+    "Mobile Learning",
+    "Reporting & Analytics"
+  ],
+  "use_cases": [
+    "Compliance training",
+    "Onboarding",
+    "Customer Training",
+    "Sales Training",
+    "Employee Development"
+  ],
+  "value_proposition": "Drive critical business outcomes and foster a culture of learning with Litmos, making knowledge a competitive advantage.",
+  "market_position": null,
+  "competitors": null,
+  "metadata": {
+    "sources": "Litmos website",
+    "confidence": "high",
+    "notes": "Information extracted from the company's promotional content."
+  },
+  "data_completeness_score": 0.5,
+  "category": "Learning Management System (LMS)"
+}

@@ -1,0 +1,71 @@
+{
+  "company_name": "Docebo",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Docebo is an AI-first Learning Management System (LMS) that focuses on innovation and business value in learning and course creation.",
+  "products": [
+    "Docebo Platform",
+    "Content Creation",
+    "AI Virtual Coaching",
+    "Content Marketplace",
+    "Learning Intelligence",
+    "eCommerce",
+    "Communities",
+    "Headless Learning",
+    "Gamified Learning",
+    "Immersive Learning",
+    "Proctoring"
+  ],
+  "target_market": [
+    "Enterprise",
+    "Federal",
+    "Software",
+    "Financial Services",
+    "Manufacturing",
+    "Healthcare",
+    "Government & Public Sector",
+    "Restaurant & Hospitality",
+    "Tech / IT Services",
+    "Education",
+    "Retail"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "Generative AI LMS",
+    "Hundreds of pre-built integrations",
+    "Employee onboarding",
+    "Talent development",
+    "Compliance training",
+    "Sales enablement",
+    "Customer education",
+    "Partner enablement",
+    "Frontline workforce training",
+    "Member training"
+  ],
+  "use_cases": [
+    "Improve engagement & productivity",
+    "Develop skills and unlock value",
+    "Exceed standards and mitigate risk",
+    "Unleash team potential",
+    "Grow renewals, advocacy and spend",
+    "Turn partners into brand champions",
+    "Boost performance and retention",
+    "Grow memberships and your members"
+  ],
+  "value_proposition": "Docebo provides a solid foundation for learning programs, enabling engagement, business value, and streamlined workflows powered by AI.",
+  "market_position": "Global leader in customer, employee, partner, and enterprise learning platforms.",
+  "competitors": [],
+  "metadata": {
+    "sources": "Docebo website",
+    "confidence": "high",
+    "notes": "Information extracted from the company's promotional content."
+  },
+  "data_completeness_score": 0.5,
+  "category": "Learning Management System (LMS)"
+}

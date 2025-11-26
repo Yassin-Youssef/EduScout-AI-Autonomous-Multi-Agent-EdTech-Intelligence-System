@@ -1,0 +1,54 @@
+{
+  "company_name": "Google for Education",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Google for Education provides tools and resources to enhance teaching and learning experiences in educational institutions.",
+  "products": [
+    "Google Classroom",
+    "Google Workspace for Education",
+    "Gemini for Education",
+    "Google Meet",
+    "Workspace LTI",
+    "Google AI Pro for Education",
+    "Chromebooks",
+    "ChromeOS Flex"
+  ],
+  "target_market": [
+    "K-12 Schools",
+    "Higher Education"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": "Google Cloud"
+  },
+  "pricing_model": "Freemium with paid editions",
+  "company_size": null,
+  "key_features": [
+    "Personalized learning experiences",
+    "AI tools for educators",
+    "Interactive assignments",
+    "Real-time feedback",
+    "Differentiated instruction support"
+  ],
+  "use_cases": [
+    "Enhancing teaching impact",
+    "Personalizing learning",
+    "Supporting independent reading skills",
+    "Reinforcing concepts with self-paced learning"
+  ],
+  "value_proposition": "Empowers educators to create engaging and personalized learning experiences while preparing students for the future.",
+  "market_position": null,
+  "competitors": [
+    "Microsoft Education",
+    "Canvas",
+    "Blackboard"
+  ],
+  "metadata": {
+    "sources": "Google for Education website",
+    "confidence": "high",
+    "notes": "Information extracted from product descriptions and features."
+  },
+  "data_completeness_score": 0.62,
+  "category": "Learning Management System (LMS)"
+}

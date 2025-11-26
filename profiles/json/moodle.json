@@ -1,0 +1,45 @@
+{
+  "company_name": "Moodle",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Moodle is an open-source learning platform designed to provide educators, administrators, and learners with a single robust, secure, and integrated system to create personalized learning environments.",
+  "products": [
+    "Moodle LMS",
+    "Moodle Workplace",
+    "MoodleNet",
+    "Moodle Academy"
+  ],
+  "target_market": [
+    "educators",
+    "administrators",
+    "designers",
+    "developers"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "open educational resources",
+    "personalized learning environments",
+    "certified service providers"
+  ],
+  "use_cases": [
+    "skill development for educators",
+    "course management",
+    "collaboration among educators"
+  ],
+  "value_proposition": "Moodle provides a flexible and customizable platform for creating effective online learning experiences.",
+  "market_position": null,
+  "competitors": [],
+  "metadata": {
+    "sources": "Moodle.org",
+    "confidence": "high",
+    "notes": "Information extracted from the official Moodle website."
+  },
+  "data_completeness_score": 0.44,
+  "category": "Learning Management System (LMS)"
+}

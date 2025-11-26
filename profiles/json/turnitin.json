@@ -1,0 +1,52 @@
+{
+  "company_name": "Turnitin",
+  "founded": 1998,
+  "headquarters": "Not specified",
+  "summary": "Diverse and passionate people dedicated to serving the global education community through technology that promotes honesty, consistency, and fairness.",
+  "products": [
+    "Feedback Studio",
+    "Gradescope",
+    "ExamSoft",
+    "Similarity",
+    "iThenticate",
+    "Feedback Studio add-on"
+  ],
+  "target_market": [
+    "educators",
+    "students",
+    "researchers",
+    "academic institutions"
+  ],
+  "technology_stack": {
+    "languages": "Not specified",
+    "frameworks": "Not specified",
+    "infrastructure": "Not specified"
+  },
+  "pricing_model": "Not specified",
+  "company_size": "Not specified",
+  "key_features": [
+    "AI-powered workflows",
+    "robust safeguards for academic integrity",
+    "secure assessments",
+    "flexible grading solutions",
+    "transparency in the writing process"
+  ],
+  "use_cases": [
+    "preventing plagiarism",
+    "grading and feedback",
+    "high-stakes assessment",
+    "promoting research integrity"
+  ],
+  "value_proposition": "Promote equity, integrity, and meaning in every learner’s journey through technology solutions.",
+  "market_position": "Leader in academic integrity solutions",
+  "competitors": [
+    "Turnitin competitors not specified"
+  ],
+  "metadata": {
+    "sources": "Turnitin website",
+    "confidence": "High",
+    "notes": "Information extracted from the company's website."
+  },
+  "data_completeness_score": 1.0,
+  "category": "Assessment & Testing"
+}

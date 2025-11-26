@@ -1,0 +1,60 @@
+{
+  "company_name": "Kahoot!",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Kahoot! is an interactive learning platform that makes learning engaging and fun through games and quizzes, catering to various audiences including educators, students, and families.",
+  "products": [
+    "Kahoot! Basic",
+    "Kahoot! One",
+    "Kahoot! at Work",
+    "Kahoot! for School",
+    "Kahoot! for Higher Education",
+    "Kahoot! app",
+    "Language Drops"
+  ],
+  "target_market": [
+    "Educators",
+    "Students",
+    "Families",
+    "Professionals",
+    "Organizations"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": "Subscription-based with a free plan",
+  "company_size": null,
+  "key_features": [
+    "Create engaging lessons",
+    "Interactive quizzes",
+    "Self-study options",
+    "Professional growth resources",
+    "Access to millions of kahoots",
+    "Analytics and reporting"
+  ],
+  "use_cases": [
+    "Teaching",
+    "Presenting",
+    "Employee training",
+    "Family entertainment",
+    "Workshops",
+    "Conferences"
+  ],
+  "value_proposition": "Kahoot! transforms learning into an engaging experience, making it suitable for various occasions and audiences.",
+  "market_position": "A leading platform in the EdTech space, popular among educators and learners worldwide.",
+  "competitors": [
+    "Quizlet",
+    "Socrative",
+    "Nearpod",
+    "Mentimeter"
+  ],
+  "metadata": {
+    "sources": "Kahoot! website",
+    "confidence": "High",
+    "notes": "Information extracted from promotional content on the website."
+  },
+  "data_completeness_score": 0.62,
+  "category": "Assessment & Testing"
+}

@@ -1,0 +1,54 @@
+{
+  "company_name": "Udacity",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Udacity offers skill development programs focused on in-demand skills in AI, Data, Programming, and more through hands-on projects and expert mentorship.",
+  "products": [
+    "Generative AI",
+    "Agentic AI",
+    "AI Programming with Python",
+    "Product Manager",
+    "AI Trading Strategies",
+    "Data Scientist",
+    "AI Product Manager"
+  ],
+  "target_market": [
+    "Individuals",
+    "Businesses"
+  ],
+  "technology_stack": {
+    "languages": [
+      "Python"
+    ],
+    "frameworks": [
+      "NumPy",
+      "pandas",
+      "Matplotlib",
+      "PyTorch"
+    ],
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "Hands-on learning",
+    "Personalized support",
+    "Measurable outcomes",
+    "Top-rated programs"
+  ],
+  "use_cases": [
+    "Skill development",
+    "Career advancement",
+    "Job readiness"
+  ],
+  "value_proposition": "Build in-demand skills to unlock potential and drive outcomes for career and business.",
+  "market_position": null,
+  "competitors": [],
+  "metadata": {
+    "sources": "Udacity website",
+    "confidence": "high",
+    "notes": "Information extracted from promotional content."
+  },
+  "data_completeness_score": 0.56,
+  "category": "Corporate Training / HR Learning"
+}

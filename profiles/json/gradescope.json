@@ -1,0 +1,45 @@
+{
+  "company_name": "Gradescope",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Gradescope helps you seamlessly administer and grade all of your assessments, whether online or in-class. Save time grading and get a clear picture of how your students are doing.",
+  "products": [
+    "Assessment Administration",
+    "Grading Tools",
+    "Analytics"
+  ],
+  "target_market": [
+    "Universities",
+    "Instructors",
+    "Students"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "Supports variable-length assignments",
+    "Detailed feedback with flexible rubrics",
+    "Analytics for student performance",
+    "Integration with existing assignments"
+  ],
+  "use_cases": [
+    "Grading exams",
+    "Grading homework",
+    "Grading code submissions",
+    "Providing detailed analytics"
+  ],
+  "value_proposition": "Gradescope saves time grading and provides insights into student performance.",
+  "market_position": null,
+  "competitors": [],
+  "metadata": {
+    "sources": [],
+    "confidence": "high",
+    "notes": "Information extracted from the company's website."
+  },
+  "data_completeness_score": 0.44,
+  "category": "Assessment & Testing"
+}

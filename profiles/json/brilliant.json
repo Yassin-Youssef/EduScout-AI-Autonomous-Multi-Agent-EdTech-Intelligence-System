@@ -1,0 +1,42 @@
+{
+  "company_name": "Brilliant",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Brilliant offers interactive problem-solving courses in math and computer science, designed to make learning effective and fun.",
+  "products": [
+    "Courses"
+  ],
+  "target_market": [
+    "Learners ages 13 to 113"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "Interactive lessons",
+    "Instant custom feedback",
+    "Guided bite-sized lessons",
+    "Engaging lessons",
+    "Competitive features"
+  ],
+  "use_cases": [
+    "Learning math",
+    "Learning computer science",
+    "Brushing up on basics",
+    "Learning new skills"
+  ],
+  "value_proposition": "Brilliant's interactive approach teaches you to think, not memorize, making learning more effective and enjoyable.",
+  "market_position": null,
+  "competitors": null,
+  "metadata": {
+    "sources": "Brilliant website",
+    "confidence": "high",
+    "notes": "Information extracted from promotional content."
+  },
+  "data_completeness_score": 0.44,
+  "category": "General EdTech"
+}

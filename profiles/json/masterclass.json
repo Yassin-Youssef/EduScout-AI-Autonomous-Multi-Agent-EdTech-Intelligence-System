@@ -1,0 +1,46 @@
+{
+  "company_name": "MasterClass",
+  "founded": null,
+  "headquarters": null,
+  "summary": "MasterClass offers online classes taught by renowned experts in various fields, providing unlimited access to bite-sized lessons.",
+  "products": [
+    "Online Classes",
+    "MasterClass at Work"
+  ],
+  "target_market": [
+    "Individuals seeking personal development",
+    "Professionals looking to enhance skills",
+    "Lifelong learners"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": "Subscription-based",
+  "company_size": null,
+  "key_features": [
+    "Unlimited access to classes",
+    "Lessons from industry leaders",
+    "Diverse subject offerings"
+  ],
+  "use_cases": [
+    "Career development",
+    "Skill enhancement",
+    "Personal enrichment"
+  ],
+  "value_proposition": "Learn from the best in the industry to improve skills and knowledge across various disciplines.",
+  "market_position": null,
+  "competitors": [
+    "Udemy",
+    "Coursera",
+    "Skillshare"
+  ],
+  "metadata": {
+    "sources": "MasterClass website",
+    "confidence": "high",
+    "notes": "Information extracted from the website content."
+  },
+  "data_completeness_score": 0.56,
+  "category": "MOOC Platform"
+}

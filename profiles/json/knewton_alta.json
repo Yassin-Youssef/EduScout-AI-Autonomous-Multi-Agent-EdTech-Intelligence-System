@@ -1,0 +1,43 @@
+{
+  "company_name": "Knewton Alta",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Knewton Alta is accessible and affordable adaptive courseware that provides students with the support they need at the moment they need it.",
+  "products": [
+    "Knewton Alta"
+  ],
+  "target_market": [
+    "Students",
+    "Instructors"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": "Courses are available for $44.95 per semester or $10.95 per month.",
+  "company_size": null,
+  "key_features": [
+    "Personalized learning",
+    "Detailed answer explanations",
+    "Integrated instruction",
+    "Dynamic remediation",
+    "Actionable instructor analytics",
+    "WCAG 2.0 AA-level ADA compliance"
+  ],
+  "use_cases": [
+    "Adaptive learning",
+    "Course customization",
+    "Real-time student performance monitoring"
+  ],
+  "value_proposition": "Knewton Alta lowers costs while raising expectations with flexible pricing and personalized learning experiences.",
+  "market_position": null,
+  "competitors": [],
+  "metadata": {
+    "sources": "Knewton Alta website",
+    "confidence": "high",
+    "notes": "Information extracted from the company's promotional content."
+  },
+  "data_completeness_score": 0.5,
+  "category": "General EdTech"
+}

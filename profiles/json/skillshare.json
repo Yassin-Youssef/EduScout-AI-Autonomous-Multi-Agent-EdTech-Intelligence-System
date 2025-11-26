@@ -1,0 +1,44 @@
+{
+  "company_name": "Skillshare",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Skillshare ist eine Online-Lern-Community mit Tausenden von Kursen für kreative und neugierige Menschen zu Themen wie Illustration, Design, Fotografie, Video, Freelancing und mehr.",
+  "products": [
+    "Online-Kurse",
+    "Lernpfade",
+    "Zertifikate"
+  ],
+  "target_market": [
+    "Kreative",
+    "Neugierige",
+    "Teams"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": "Abonnement",
+  "company_size": "425k+ Mitglieder",
+  "key_features": [
+    "Unbegrenzter Zugang zu Kursen",
+    "Offline-Ansicht",
+    "Aktive Community",
+    "Kurse von Branchenprofis"
+  ],
+  "use_cases": [
+    "Kreatives Lernen",
+    "Berufliche Entwicklung",
+    "Persönliche Entwicklung"
+  ],
+  "value_proposition": "Skillshare bietet inspirierende und praxisnahe Kurse, die von Experten unterrichtet werden, um den Lernenden zu helfen, ihre kreativen Fähigkeiten zu verbessern.",
+  "market_position": null,
+  "competitors": [],
+  "metadata": {
+    "sources": "Skillshare Website",
+    "confidence": "High",
+    "notes": "Informationen basieren auf der Beschreibung der Plattform und ihrer Angebote."
+  },
+  "data_completeness_score": 0.56,
+  "category": "Corporate Training / HR Learning"
+}

@@ -1,0 +1,45 @@
+{
+  "company_name": "Anthology",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Anthology is the EdTech leader powering learners and institutions worldwide, pairing the only complete SaaS solution suite with a flexible ecosystem built to help everyone thrive.",
+  "products": [
+    "Blackboard",
+    "Anthology Ally"
+  ],
+  "target_market": [
+    "K-12 schools",
+    "higher education",
+    "business",
+    "government"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": "SaaS"
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "learning effectiveness",
+    "inclusive environments",
+    "accessibility"
+  ],
+  "use_cases": [
+    "professional development",
+    "training",
+    "employee success",
+    "organization success",
+    "government agency support"
+  ],
+  "value_proposition": "Complete SaaS solution suite with a flexible ecosystem for thriving learners and institutions.",
+  "market_position": "EdTech leader",
+  "competitors": [],
+  "metadata": {
+    "sources": "Anthology website",
+    "confidence": "high",
+    "notes": "Information extracted from the company's promotional content."
+  },
+  "data_completeness_score": 0.56,
+  "category": "Learning Management System (LMS)"
+}

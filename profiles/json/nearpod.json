@@ -1,0 +1,47 @@
+{
+  "company_name": "Nearpod",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Nearpod is an interactive instructional delivery platform that enhances student engagement and learning through active participation and real-time insights.",
+  "products": [
+    "Nearpod Library",
+    "AI Create"
+  ],
+  "target_market": [
+    "Schools",
+    "Districts",
+    "Teachers",
+    "Administrators"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": "Request a quote",
+  "company_size": null,
+  "key_features": [
+    "Interactive instructional delivery",
+    "Formative assessments",
+    "Real-time insights",
+    "Standards-aligned resources",
+    "AI-generated lessons",
+    "Engagement tools"
+  ],
+  "use_cases": [
+    "Active learning experiences",
+    "Differentiated instruction",
+    "Real-time feedback",
+    "Engaging lesson delivery"
+  ],
+  "value_proposition": "Nearpod fosters a love of learning by creating engaging, interactive experiences that promote active participation and provide valuable insights for educators.",
+  "market_position": null,
+  "competitors": [],
+  "metadata": {
+    "sources": "Nearpod website",
+    "confidence": "high",
+    "notes": "Information extracted from promotional content on the Nearpod website."
+  },
+  "data_completeness_score": 0.5,
+  "category": "K-12 Learning Platform"
+}

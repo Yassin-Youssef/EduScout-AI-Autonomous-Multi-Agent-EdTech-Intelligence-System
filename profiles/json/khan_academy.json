@@ -1,0 +1,60 @@
+{
+  "company_name": "Khan Academy",
+  "founded": "2008",
+  "headquarters": "Mountain View, California, USA",
+  "summary": "Khan Academy is a non-profit educational organization that provides free online courses, lessons, and practice in various subjects.",
+  "products": [
+    "Khan Academy website",
+    "Khan Academy Kids",
+    "Khan Academy for Schools"
+  ],
+  "target_market": [
+    "students",
+    "teachers",
+    "parents",
+    "schools"
+  ],
+  "technology_stack": {
+    "languages": [
+      "JavaScript",
+      "Python"
+    ],
+    "frameworks": [
+      "React",
+      "Django"
+    ],
+    "infrastructure": [
+      "AWS",
+      "Google Cloud"
+    ]
+  },
+  "pricing_model": "Free",
+  "company_size": "501-1000 employees",
+  "key_features": [
+    "Personalized learning dashboard",
+    "Practice exercises",
+    "Video lessons",
+    "Progress tracking"
+  ],
+  "use_cases": [
+    "Supplemental learning",
+    "Homeschooling",
+    "Classroom instruction",
+    "Test preparation"
+  ],
+  "value_proposition": "Providing free, high-quality education to anyone, anywhere.",
+  "market_position": "Leader in free online education",
+  "competitors": [
+    "Coursera",
+    "edX",
+    "Udacity",
+    "Duolingo"
+  ],
+  "metadata": {
+    "sources": "Khan Academy official website",
+    "confidence": "High",
+    "notes": "Information is based on publicly available data."
+  },
+  "data_completeness_score": 1.0,
+  "category": "K-12 Learning Platform"
+}

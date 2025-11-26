@@ -1,0 +1,58 @@
+{
+  "company_name": "Photomath",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Photomath is a math help app that provides step-by-step explanations to help learners understand math problems.",
+  "products": [
+    "Photomath App"
+  ],
+  "target_market": [
+    "Elementary students",
+    "High school students",
+    "College students"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": [
+    {
+      "type": "Basic",
+      "price": "$0 USD"
+    },
+    {
+      "type": "Monthly Subscription",
+      "price": "$9.99 USD"
+    },
+    {
+      "type": "Annual Subscription",
+      "price": "$69.99 USD"
+    }
+  ],
+  "company_size": null,
+  "key_features": [
+    "Step-by-step explanations",
+    "Custom visual aids",
+    "Multiple solution methods"
+  ],
+  "use_cases": [
+    "Homework help",
+    "Learning math concepts",
+    "Overcoming math anxiety"
+  ],
+  "value_proposition": "Photomath provides personalized math help anytime and anywhere, making math accessible and understandable for learners.",
+  "market_position": null,
+  "competitors": [
+    "Khan Academy",
+    "Wolfram Alpha",
+    "Microsoft Math Solver"
+  ],
+  "metadata": {
+    "sources": "Photomath website",
+    "confidence": "high",
+    "notes": "Information extracted from the company's promotional content."
+  },
+  "data_completeness_score": 0.56,
+  "category": "General EdTech"
+}

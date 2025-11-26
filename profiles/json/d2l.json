@@ -1,0 +1,63 @@
+{
+  "company_name": "D2L",
+  "founded": null,
+  "headquarters": null,
+  "summary": "D2L is transforming the future of education and work, driven by the belief that everyone deserves access to high-quality learning.",
+  "products": [
+    "D2L Brightspace",
+    "D2L Brightspace Add-ons",
+    "D2L Lumi",
+    "D2L Creator+",
+    "D2L Performance+",
+    "D2L Achievement+",
+    "D2L Link",
+    "D2L Accessibility+"
+  ],
+  "target_market": [
+    "Higher Education",
+    "K-12",
+    "Associations",
+    "Training Organizations",
+    "Business",
+    "Government"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": null,
+  "company_size": null,
+  "key_features": [
+    "Personalized learning at scale",
+    "Customizable content",
+    "Interactive learning experiences",
+    "High-impact experiences",
+    "Flexible learning"
+  ],
+  "use_cases": [
+    "Continuing Education",
+    "K-12 Blended Learning",
+    "Member Training",
+    "Competency-Based Education",
+    "Professional Learning",
+    "Non-Profits and Charities",
+    "Professional Development",
+    "Upskilling and Certification",
+    "Dynamic Course Design",
+    "Virtual Learning",
+    "Product Enablement",
+    "Business School Innovation",
+    "Employee Onboarding"
+  ],
+  "value_proposition": "D2L believes that everyone deserves access to high-quality education, regardless of age, ability or location.",
+  "market_position": null,
+  "competitors": null,
+  "metadata": {
+    "sources": "D2L website",
+    "confidence": "high",
+    "notes": "Information extracted from the company's website."
+  },
+  "data_completeness_score": 0.44,
+  "category": "K-12 Learning Platform"
+}

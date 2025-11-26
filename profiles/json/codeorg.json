@@ -1,0 +1,44 @@
+{
+  "company_name": "Code.org",
+  "founded": null,
+  "headquarters": null,
+  "summary": "Code.org is a nonprofit dedicated to ensuring every student in every school has the opportunity to learn computer science. They create free, high-quality curriculum, provide teacher training, and support policies that bring computer science to classrooms worldwide.",
+  "products": [
+    "K–12 Computer Science Curriculum",
+    "Professional Learning for Teachers",
+    "AI-focused Lessons and Tools"
+  ],
+  "target_market": [
+    "Students",
+    "Teachers",
+    "Parents",
+    "School Districts"
+  ],
+  "technology_stack": {
+    "languages": null,
+    "frameworks": null,
+    "infrastructure": null
+  },
+  "pricing_model": "Free",
+  "company_size": null,
+  "key_features": [
+    "Comprehensive, standards-aligned curriculum",
+    "Professional learning opportunities for teachers",
+    "AI-focused educational resources"
+  ],
+  "use_cases": [
+    "Teaching computer science in K–12 education",
+    "Professional development for educators",
+    "Introducing AI concepts to students"
+  ],
+  "value_proposition": "Expanding access to computer science education for every student in every school.",
+  "market_position": "Most widely used CS curriculum in the U.S.",
+  "competitors": [],
+  "metadata": {
+    "sources": "Code.org website",
+    "confidence": "High",
+    "notes": "Information extracted from the company's website."
+  },
+  "data_completeness_score": 0.56,
+  "category": "K-12 Learning Platform"
+}
